@@ -1,0 +1,5 @@
+﻿  CommonConnectionPool.cpp
+C:\Users\zjx\OneDrive\桌面\实习准备\CommonConnectionPool\CommonConnectionPool.cpp(29,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zjx\OneDrive\桌面\实习准备\CommonConnectionPool\CommonConnectionPool.cpp(36,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zjx\OneDrive\桌面\实习准备\CommonConnectionPool\CommonConnectionPool.cpp(17,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CommonConnectionPool.vcxproj -> C:\Users\zjx\OneDrive\桌面\实习准备\CommonConnectionPool\x64\Debug\CommonConnectionPool.exe
